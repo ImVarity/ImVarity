@@ -1,4 +1,11 @@
-## Hi there 👋
+## ImVarity 🐉
+
+**'University of Washington'**
+**'Software/Game Developer'**
+
+Here lies the coding projects I have crafted that made me into the aspiring developer I am now.
+
+📫 Reach me at lazjosh@uw.edu
 
 <!--
 **ImVarity/ImVarity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
