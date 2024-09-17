@@ -1,7 +1,7 @@
 ## ImVarity 🐉
 
-**'University of Washington'**
-**'Software/Game Developer'**
+**`University of Washington`**
+**`Software/Game Developer`**
 
 Here lies the coding projects I have crafted that made me into the aspiring developer I am now.
 
