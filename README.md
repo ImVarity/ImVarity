@@ -1,9 +1,9 @@
-## ImVarity 🐉
+## Joshua Lazarte 🐉
 
 **`University of Washington`**
 **`Software/Game Developer`**
 
-Here lie the coding projects I have crafted, which have shaped me into the aspiring developer I am today
+Coding projects vault
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
